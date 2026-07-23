@@ -1,11 +1,10 @@
 /*==============================================================================
   BANKING SYSTEM - DATABASE AUDIT LOGGING SOLUTION
   Author : Group members:
-•	30848/2025
-•	32481/2025
-•	32222/2025
-•	32913/2025
-•	27860/2024
+•	31322/2025
+•	31234/2025
+•	31882/2025
+•	
 
   Course : Database Programming - Lecture 9 (Triggers)
   Purpose: Track every INSERT / UPDATE / DELETE on six critical banking
