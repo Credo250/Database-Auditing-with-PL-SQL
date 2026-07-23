@@ -7,7 +7,7 @@
 
 A complete **Database Auditing System** developed in **Oracle PL/SQL** for monitoring data modifications in a banking-style database.
 
-This project demonstrates how database triggers and stored procedures can be used to automatically record every **INSERT**, **UPDATE**, and **DELETE** operation while maintaining an audit trail and logging execution errors.
+This project demonstrates how database triggers and stored procedures can be used to automatically record every **INSERT**, **UPDATE**, and **DELETE** operation while maintaining an audit trail and logging execution errors
 
 ---
 
